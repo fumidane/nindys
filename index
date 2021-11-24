@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PAW 01-3-LAT1</title>
+</head>
+<body>
+	<b><u>Belajar HTML</u></b><br>
+	<hr size="1" noshade>
+	<b>HTML</b> digunakan untuk menyusun struktur tampilan dokumen web.<br>
+	Untuk menampilkan halaman HTML, dipergunakan <i>web browser</i>.
+</body>
+</html>
