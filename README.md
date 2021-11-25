@@ -1,2 +1,2 @@
-Punya Nindy ya ini
+Nindya Dwi Anggana - 182104009
 
