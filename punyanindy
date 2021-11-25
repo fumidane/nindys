@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PopUp Box JavaScript</title>
+	<script type="text/javascript">
+		function Pengurangan() {
+			bil1 = prompt("Masukkan angka pertama :", "");
+			bil2 = prompt("Masukkan angka kedua :", "");
+			kurang = bil1 - bil2;
+			alert ("Hasil dari pengurangan antara " + bil1 + " dan " + bil2 + " sama dengan " + kurang);
+		}
+		function Perkalian() {
+			bil1 = prompt("Masukkan angka pertama :", "");
+			bil2 = prompt("Masukkan angka kedua :", "");
+			kali = bil1 * bil2;
+			alert ("Hasil dari perkalian antara " + bil1 + " dan " + bil2 + " sama dengan " + kali);
+		}
+		function Pembagian() {
+			bil1 = prompt("Masukkan angka pertama :", "");
+			bil2 = prompt("Masukkan angka kedua :", "");
+			bagi = bil1 / bil2;
+			alert ("Hasil dari pembagian antara " + bil1 + " dan " + bil2 + " sama dengan " + bagi);
+		}
+	</script>
+</head>
+<body>
+	<h2>Identitas</h2>
+	Nama : Nindya Dwi Anggana<br>
+	NIM : 182104009<br>
+	Prodi : Teknologi Informasi<br>
+	<p><input type="button" onclick="Pengurangan()" value="Pengurangan"/>
+	<input type="button" onclick="Perkalian()" value="Perkalian"/>
+	<input type="button" onclick="Pembagian()" value="Pembagian"/>
+</body>
+</html>
